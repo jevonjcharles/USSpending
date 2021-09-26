@@ -14,6 +14,7 @@
 		A6F2B5AA2701339F00E6390F /* USSpendingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6F2B5A92701339F00E6390F /* USSpendingTests.swift */; };
 		A6F2B5B42701339F00E6390F /* USSpendingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6F2B5B32701339F00E6390F /* USSpendingUITests.swift */; };
 		A6F2B5B62701339F00E6390F /* USSpendingUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6F2B5B52701339F00E6390F /* USSpendingUITestsLaunchTests.swift */; };
+		A6F2B5C32701352A00E6390F /* Readme.md in Resources */ = {isa = PBXBuildFile; fileRef = A6F2B5C22701352A00E6390F /* Readme.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		A6F2B5AF2701339F00E6390F /* USSpendingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = USSpendingUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A6F2B5B32701339F00E6390F /* USSpendingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = USSpendingUITests.swift; sourceTree = "<group>"; };
 		A6F2B5B52701339F00E6390F /* USSpendingUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = USSpendingUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A6F2B5C22701352A00E6390F /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 		A6F2B58C2701339B00E6390F = {
 			isa = PBXGroup;
 			children = (
+				A6F2B5C22701352A00E6390F /* Readme.md */,
 				A6F2B5972701339B00E6390F /* USSpending */,
 				A6F2B5A82701339F00E6390F /* USSpendingTests */,
 				A6F2B5B22701339F00E6390F /* USSpendingUITests */,
@@ -233,6 +236,7 @@
 			files = (
 				A6F2B5A02701339F00E6390F /* Preview Assets.xcassets in Resources */,
 				A6F2B59D2701339F00E6390F /* Assets.xcassets in Resources */,
+				A6F2B5C32701352A00E6390F /* Readme.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
